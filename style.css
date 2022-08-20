@@ -1,0 +1,72 @@
+.container{
+    margin-bottom: 80px;
+}
+.bg-s{
+    background-color: #F8F9FA;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.it h3,p{
+    margin-bottom: 20px;
+}
+.sl-bg{
+    float: center;
+}
+.ic img{
+    max-width: 100%;
+    padding-bottom: 40px;
+}    
+.navbar img{
+    height: 40px;
+}
+.slider-row h3{
+    margin-bottom: 20px;
+}
+.slider-row button{
+    margin-top: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray ;
+    border-radius: 7px;
+    text-align: center;
+}
+.by-but{
+    border: none;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;    
+}
+.cd-1,.cd-2,.cd-3{
+    padding: 30px 10px ;
+    border-radius: 12px;
+    
+}
+.text-center img{
+    padding-bottom: 20px;
+}
+.see{
+    color: orange;
+}
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+}
+.card-head{
+    margin-bottom: 20px;
+}
+.fif img{
+    max-width: 100%;
+}
+.name{
+    border-bottom: 5px solid orange;
+    padding: 8px;
+    display: inline-block;
+    border-radius: 3px;
+}
