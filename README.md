@@ -1,1 +1,2 @@
-# ht-gadgts
+# hot-gadgets
+Check the live site here
